@@ -1,6 +1,6 @@
 
 ![Logo](https://www.ge.com/news/sites/default/files/4229.jpg)
-Combined Cycle Power Plant (Source: GE Power)
+Combined Cycle Power Plant (Source of Image: GE Power, data is not necessarily based on GE equipment)
 
 
 # Exploratory Data Analysis and Regression Modeling 
@@ -21,7 +21,7 @@ The project included an exploratory data analysis and training and testing of re
 
 
 
-## Authors
+## Author
 
 - [@wlouer](https://www.github.com/wlouer)
 
