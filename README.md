@@ -1,5 +1,5 @@
 
-<img src="https://www.ge.com/news/sites/default/files/4229.jpg" width='70%' />
+<img src="https://www.ge.com/news/sites/default/files/4229.jpg" width='50%' />
 
 # Exploratory Data Analysis and Regression Modeling 
 ## Combined Cycle Power Plant Output
